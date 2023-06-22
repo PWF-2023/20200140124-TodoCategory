@@ -5,7 +5,7 @@
 ## 2. Category Index
 ![Alt text](screenshot/tugas12/Category.png)
 ## 3. Todo Store
-![Alt text](screenshot/tugas12/TodoStore.png.png)
+![Alt text](screenshot/tugas12/TodoStore.png)
 ## 4. Todo Update
 ![Alt text](screenshot/tugas12/TodoUpdate.png)
 ## 5. Todo Delete
